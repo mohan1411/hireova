@@ -1,0 +1,29 @@
+# <type>: <subject>
+
+# <body>
+
+# <footer>
+
+# Type should be one of the following:
+# * feat     (new feature)
+# * fix      (bug fix)
+# * docs     (changes to documentation)
+# * style    (formatting, missing semi colons, etc; no code change)
+# * refactor (refactoring production code)
+# * test     (adding tests, refactoring tests; no production code change)
+# * chore    (updating build tasks, package manager configs, etc)
+# * perf     (performance improvements)
+# * ci       (CI configuration)
+
+# Subject should use imperative tone and say what you did.
+# The body should go into detail about changes made.
+# The footer should contain any issue references or breaking changes.
+
+# Example:
+# feat: add LinkedIn OAuth integration
+#
+# - Implemented OAuth2 flow for LinkedIn authentication
+# - Added profile data extraction from LinkedIn API
+# - Created unified resume parser for LinkedIn data
+#
+# Closes #123
