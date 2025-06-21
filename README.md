@@ -140,4 +140,4 @@ See [Technical Implementation Guide](docs/technical/technical-implementation-gui
 
 ## License
 
-Copyright (c) 2024 Hireova AI. All rights reserved.
+Copyright (c) 2025 Hireova AI. All rights reserved.
